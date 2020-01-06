@@ -1,2 +1,15 @@
-# python virtualenv
+# Environments
 .venv
+
+# Database
+*.sqlite3*
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Web
+port
+
+# Log
+log
